@@ -1,3 +1,3 @@
 # Practice
-<<<<<<< HEAD
-^^ I'm jenny. I modified this file
+I'm  coworker. 
+THIS IS SECOND CHANGE
