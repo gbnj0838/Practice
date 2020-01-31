@@ -1,2 +1,3 @@
 # Practice
-^^ I'm jenny. I modified this file once. 
+<<<<<<< HEAD
+^^ I'm jenny. I modified this file
